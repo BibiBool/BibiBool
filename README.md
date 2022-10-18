@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <!--
-**BibiBool/BibiBool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project Management
+- 🔭 I’m currently working on Project Management as a Scrum Master
 - 🌱 I’m currently learning Data Engineering, and maybe I'll throw in some Data Science and Data Alaysis too. When I want to do something, I just learn how to do it.
 - 👯 I’m looking to collaborate on Python projects.
 - 🤔 I’m looking for help with cleaning and uplaoding databases.
