@@ -7,4 +7,4 @@
 - 💬 Ask me about where I'm from and where I'm heading
 - 📫 How to reach me: linkedin.com/in/sembrueldorinvil
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Just ask me!
+- ⚡ Fun fact: I speak 6 languages fluently!
